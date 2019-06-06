@@ -91,7 +91,7 @@ double gravaMatriz(char nomeArquivo[], double *matriz, int n)
  */
 void gravaArquivo_Diag1(char nomeArquivo[], double *matriz, int n)
 {
-	/* Adiciona a extensao "_diag1.dat" ao nome do Arquivo: */
+	/* Adiciona a extensao ".diag1" ao nome do Arquivo: */
 	char extensao[31];
 	strcpy(extensao,nomeArquivo);
 	strcat(extensao,".diag1");
@@ -128,7 +128,7 @@ void gravaArquivo_Diag1(char nomeArquivo[], double *matriz, int n)
  */
 void gravaArquivo_Diag2(char nomeArquivo[], double *matriz, int n){
 
-	/* Adiciona a extensão "_diag2.dat" ao nome do Arquivo: */
+	/* Adiciona a extensão ".diag2" ao nome do Arquivo: */
 	char extensao[31];
 	strcpy(extensao,nomeArquivo);
 	strcat(extensao,".diag2");
