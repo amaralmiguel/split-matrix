@@ -84,7 +84,7 @@ double gravaMatriz(char nomeArquivo[], double *matriz, int n)
 }
 
 /**
- * Funcao para gravar dados da Matriz Superior no Arquivo _diag1
+ * Funcao para gravar dados da Matriz Superior no Arquivo .diag1
  * @Parametro nomeArquivo -> Nome do Arquivo a ser aberto.
  * @Parametro matriz -> Matriz que sera gravada.
  * @Parametro n -> Dimensao da Matriz.
@@ -121,7 +121,7 @@ void gravaArquivo_Diag1(char nomeArquivo[], double *matriz, int n)
 }
 
 /**
- * Funcao para gravar dados da Matriz Inferior no Arquivo _diag2
+ * Funcao para gravar dados da Matriz Inferior no Arquivo .diag2
  * @Parametro nomeArquivo -> Nome do Arquivo a ser aberto.
  * @Parametro matriz -> Matriz que sera gravada.
  * @Parametro n -> Dimensao da Matriz.
