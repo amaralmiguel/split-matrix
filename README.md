@@ -20,7 +20,9 @@ Após compilar e executar o programa, você verá novos arquivos dentro da pasta
 -   A Matriz superior gravada em um arquivo com extensão ".diag1";
 -   A Matriz inferior gravada em um arquivo com extensão ".diag2".
 
-Obs: Ao compilar e executar o programa no terminal,também é exibido o tempo de execução das threads em milissegundos e em segundos. Para saber o tempo de execução total do programa, basta inserir o comando time antes de inserir os dados, da seguinte forma: "time ./divideMatriz dimensao_matriz qtd_threads nome_arquivo" (sem aspas).
+
+Obs: Ao compilar e executar o programa no terminal,também é exibido o tempo de execução das threads em milissegundos e em segundos. Para saber o tempo de execução total do programa, basta inserir o comando time antes de inserir os dados, da seguinte forma: 
+-   "time ./divideMatriz dimensao_matriz qtd_threads nome_arquivo" (sem aspas).
 
 
 
