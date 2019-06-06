@@ -1,6 +1,10 @@
 # Divide-Matriz
 Programa que divide uma matriz em outras duas: uma superior e uma inferior. Os dados da Matriz original vêm de um arquivo e as matrizes resultantes são gravadas em arquivos com extensões ".diag1" e ".diag2". O projeto foi desenvolvido para a disciplina de Sistemas Operacionais da Faculdade de Tecnologia da Unicamp. Nesse diretório estão os arquivos fonte e um makefile. O arquivo makefile contém as instruções para compilar e gerar os programas. Faça o download do repositório e salve onde preferir.
 
+#### Importante:
+Este programa está disponível somente para Linux, pois utiliza bibliotecas que não estão presentes no Windows.
+
+#### Vídeo:
 Foi gravado um vídeo mostrando o código, a compilação e a execução o programa. 
 [Clique aqui para acessar](https://drive.google.com/file/d/1-V8FFvxjeVUeKoQIrKjPLJzwLxsvbqxb/view)
 
